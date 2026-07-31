@@ -1,0 +1,185 @@
+ISBN,Title,Author,Year,Category,TotalCopies
+9780134685991,"Electric Circuits","James Nilsson",2018,"Electrical Engineering",5
+9780134484143,"Fundamentals of Electric Circuits","Charles Alexander",2016,"Electrical Engineering",4
+9780190698614,"Microelectronic Circuits","Adel Sedra",2019,"Electrical Engineering",3
+9780134484068,"Power System Analysis","John Grainger",2015,"Electrical Engineering",4
+9780133356793,"Digital Design","Morris Mano",2017,"Electrical Engineering",6
+9780134477664,"Control Systems Engineering","Norman Nise",2019,"Electrical Engineering",3
+9780134484242,"Signals and Systems","Alan Oppenheim",2016,"Electrical Engineering",5
+9780132671033,"Digital Signal Processing","John Proakis",2014,"Electrical Engineering",4
+9780134484556,"Electromagnetics for Engineers","Fawwaz Ulaby",2020,"Electrical Engineering",3
+9780133594140,"Communication Systems","Simon Haykin",2015,"Electrical Engineering",4
+9780262033848,"Introduction to Algorithms","Thomas Cormen",2022,"Computer Science",5
+9780132350884,"Clean Code","Robert Martin",2008,"Programming",6
+9780134494166,"Computer Organization and Design","David Patterson",2020,"Computer Science",4
+9780132762564,"Operating System Concepts","Abraham Silberschatz",2018,"Computer Science",5
+9780078022159,"Database System Concepts","Abraham Silberschatz",2019,"Computer Science",4
+9780132126953,"Computer Networks","Andrew Tanenbaum",2021,"Computer Science",5
+9780134478661,"Data Structures and Algorithms in Python","Michael Goodrich",2019,"Programming",6
+9780135957059,"The Pragmatic Programmer","David Thomas",2019,"Programming",3
+9780201633610,"Design Patterns","Erich Gamma",1994,"Programming",4
+9780136042594,"Artificial Intelligence A Modern Approach","Stuart Russell",2020,"Computer Science",5
+9780134804262,"Engineering Mechanics Statics","Russell Hibbeler",2019,"Mechanical Engineering",5
+9780134814971,"Engineering Mechanics Dynamics","Russell Hibbeler",2019,"Mechanical Engineering",5
+9780134382593,"Thermodynamics An Engineering Approach","Yunus Cengel",2018,"Mechanical Engineering",4
+9780134384931,"Fluid Mechanics","Yunus Cengel",2017,"Mechanical Engineering",4
+9780134872070,"Mechanics of Materials","Russell Hibbeler",2020,"Mechanical Engineering",6
+9780134380384,"Heat and Mass Transfer","Yunus Cengel",2019,"Mechanical Engineering",3
+9780133915426,"Machine Design","Robert Norton",2018,"Mechanical Engineering",4
+9780134494265,"Manufacturing Processes","Serope Kalpakjian",2016,"Mechanical Engineering",3
+9780134322780,"Structural Analysis","Russell Hibbeler",2017,"Civil Engineering",5
+9780134382678,"Soil Mechanics and Foundations","Muni Budhu",2019,"Civil Engineering",4
+9780133002232,"Transportation Engineering","Garber Nicholas",2018,"Civil Engineering",3
+9780134484303,"Environmental Engineering","Mackenzie Davis",2020,"Civil Engineering",4
+9780134872346,"Hydraulics in Civil Engineering","Andrew Chadwick",2019,"Civil Engineering",3
+9780132346781,"Concrete Technology","Mehta Kumar",2017,"Civil Engineering",4
+9780470458365,"Advanced Engineering Mathematics","Erwin Kreyszig",2011,"Mathematics",7
+9780321982384,"Linear Algebra and Its Applications","David Lay",2015,"Mathematics",6
+9781337515627,"Differential Equations","Dennis Zill",2016,"Mathematics",5
+9780073397924,"Numerical Methods for Engineers","Steven Chapra",2014,"Mathematics",4
+9781118539712,"Probability and Statistics for Engineers","Douglas Montgomery",2013,"Mathematics",5
+9780073383170,"Complex Variables","James Brown",2013,"Mathematics",3
+9780132622264,"Electronic Devices and Circuit Theory","Robert Boylestad",2012,"Electronics",5
+9780471178699,"Communication Systems","Simon Haykin",2000,"Electronics",4
+9780471464570,"VLSI Design","Wayne Wolf",2002,"Electronics",3
+9780471667827,"Antenna Theory","Constantine Balanis",2005,"Electronics",3
+9780521837163,"Wireless Communications","Andrea Goldsmith",2005,"Electronics",4
+9780072360769,"Fiber Optic Communications","Gerd Keiser",2010,"Electronics",3
+9780190931919,"Engineering Economy","Leland Blank",2017,"General Engineering",4
+9780195134278,"Engineering Ethics","Charles Harris",2013,"General Engineering",5
+9781118022276,"Project Management for Engineers","Harold Kerzner",2013,"General Engineering",3
+9780134813448,"Software Engineering","Ian Sommerville",2015,"Computer Science",4
+9780134320410,"Introduction to Embedded Systems","Edward Lee",2016,"Electrical Engineering",3
+9780134494401,"Power Electronics","Ned Mohan",2018,"Electrical Engineering",5
+9780134689555,"Renewable Energy Systems","Godfrey Boyle",2019,"Electrical Engineering",4
+9780133594191,"Electric Machinery Fundamentals","Stephen Chapman",2016,"Electrical Engineering",5
+9780134484419,"Modern Control Engineering","Katsuhiko Ogata",2017,"Electrical Engineering",4
+9780132671927,"Introduction to Robotics","John Craig",2014,"Mechanical Engineering",3
+9780134689722,"Engineering Vibrations","Daniel Inman",2018,"Mechanical Engineering",4
+9780134494517,"Automotive Engineering","David Crolla",2015,"Mechanical Engineering",3
+9780133915501,"Refrigeration and Air Conditioning","Arora",2017,"Mechanical Engineering",4
+9780134689883,"Turbomachinery","Seppo Korpela",2019,"Mechanical Engineering",3
+9780134484624,"Computer Aided Design","Ibrahim Zeid",2016,"Mechanical Engineering",5
+9780134689944,"Composite Materials","Robert Jones",2018,"Mechanical Engineering",3
+9780134494708,"Nanomaterials Engineering","Akhlesh Lakhtakia",2019,"Materials Science",4
+9780133915617,"Introduction to Materials Science","William Callister",2017,"Materials Science",6
+9780134689005,"Physical Metallurgy","Peter Haasen",2016,"Materials Science",3
+9780134494814,"Polymer Science and Engineering","Joel Fried",2015,"Materials Science",4
+9780134689166,"Ceramics and Glasses","James Shelby",2018,"Materials Science",3
+9780134484730,"Biomaterials Science","Buddy Ratner",2019,"Materials Science",5
+9780134689227,"Corrosion Engineering","Mars Fontana",2017,"Materials Science",4
+9780134494920,"Semiconductor Physics","Sheng Li",2016,"Electronics",5
+9780134689388,"Integrated Circuit Design","Ken Martin",2018,"Electronics",4
+9780134485031,"RF and Microwave Engineering","Frank Gustrau",2019,"Electronics",3
+9780134689449,"Photonics and Lasers","Edward Ippen",2017,"Electronics",4
+9780134485147,"Quantum Electronics","Amnon Yariv",2016,"Electronics",3
+9780134689500,"Nanoelectronics","Dragica Vasileska",2018,"Electronics",5
+9780134485253,"Biomedical Electronics","Leslie Cromwell",2015,"Electronics",4
+9780134689661,"Optical Communication","Gerd Keiser",2019,"Electronics",4
+9780134485369,"Satellite Communications","Dennis Roddy",2017,"Electronics",3
+9780134689722,"Mobile Communication Systems","Gordon Stuber",2018,"Electronics",4
+9780134485475,"Radar Engineering","Merrill Skolnik",2016,"Electronics",3
+9780134689883,"Navigation Systems","Mohinder Grewal",2019,"Electronics",5
+9780134485581,"Instrumentation Systems","Ernest Doebelin",2017,"Electronics",4
+9780134689944,"Process Control","George Stephanopoulos",2018,"Chemical Engineering",5
+9780134485697,"Chemical Reaction Engineering","Octave Levenspiel",2016,"Chemical Engineering",6
+9780134690005,"Transport Phenomena","Byron Bird",2019,"Chemical Engineering",5
+9780134485803,"Unit Operations","Warren McCabe",2017,"Chemical Engineering",4
+9780134690166,"Biochemical Engineering","James Bailey",2016,"Chemical Engineering",5
+9780134485919,"Polymer Engineering","Lokensgard",2018,"Chemical Engineering",3
+9780134690227,"Environmental Engineering Chemistry","Clair Sawyer",2015,"Chemical Engineering",4
+9780134486025,"Petroleum Refining","James Speight",2019,"Chemical Engineering",3
+9780134690388,"Thermodynamics for Chemical Engineers","Kenneth Denbigh",2017,"Chemical Engineering",5
+9780134486131,"Mass Transfer Operations","Robert Treybal",2016,"Chemical Engineering",4
+9780134690449,"Introduction to Nuclear Engineering","John Lamarsh",2018,"Nuclear Engineering",5
+9780134486247,"Nuclear Reactor Analysis","James Duderstadt",2017,"Nuclear Engineering",4
+9780134690500,"Radiation Detection","Glenn Knoll",2019,"Nuclear Engineering",5
+9780134486353,"Nuclear Fuel Cycle","Wilson",2016,"Nuclear Engineering",3
+9780134690661,"Plasma Physics","Francis Chen",2018,"Nuclear Engineering",4
+9780134486469,"Fusion Energy","Weston Stacey",2017,"Nuclear Engineering",3
+9780134690722,"Nuclear Reactor Safety","Margaret Harding",2019,"Nuclear Engineering",5
+9780134486575,"Radiological Health","Edward Geiger",2016,"Nuclear Engineering",4
+9780134690883,"Medical Physics","William Hendee",2018,"Medical Physics",5
+9780134486681,"Radiation Therapy","Faiz Khan",2017,"Medical Physics",4
+9780134690944,"MRI Physics","Dale Teaney",2019,"Medical Physics",3
+9780134486797,"Ultrasound Physics","Frank Miele",2016,"Medical Physics",4
+9780134691005,"Nuclear Medicine Physics","Simon Cherry",2018,"Medical Physics",5
+9780134486803,"Radiobiology","Eric Hall",2017,"Medical Physics",4
+9780134691166,"Geotechnical Engineering","Braja Das",2019,"Civil Engineering",6
+9780134486919,"Foundation Design","Wayne Teng",2018,"Civil Engineering",5
+9780134691227,"Earthquake Engineering","Steven Kramer",2017,"Civil Engineering",4
+9780134487025,"Bridge Engineering","Wai-Fah Chen",2019,"Civil Engineering",5
+9780134691388,"Highway Engineering","Paul Wright",2016,"Civil Engineering",4
+9780134487131,"Water Resources Engineering","Larry Mays",2018,"Civil Engineering",5
+9780134691449,"Coastal Engineering","Robert Dean",2017,"Civil Engineering",3
+9780134487247,"Construction Engineering","Garold Oberlender",2019,"Civil Engineering",4
+9780134691500,"Building Construction","William Spence",2016,"Civil Engineering",5
+9780134487353,"Steel Structures","Salmon Johnson",2018,"Civil Engineering",6
+9780134691661,"Prestressed Concrete","Naaman",2017,"Civil Engineering",4
+9780134487469,"Timber Design","Donald Breyer",2019,"Civil Engineering",3
+9780134691722,"Composite Construction","Brian Uy",2016,"Civil Engineering",4
+9780134487575,"Surveying Engineering","Paul Wolf",2018,"Civil Engineering",5
+9780134691883,"GIS and Remote Sensing","Paul Longley",2017,"Civil Engineering",4
+9780134487681,"Urban Planning","Jay Stein",2019,"Civil Engineering",3
+9780134691944,"Traffic Engineering","Roger Roess",2016,"Civil Engineering",5
+9780134487797,"Airport Engineering","Norman Ashford",2018,"Civil Engineering",4
+9780134692005,"Railway Engineering","Satish Chandra",2017,"Civil Engineering",3
+9780134487803,"Tunnel Engineering","Thomas Megaw",2019,"Civil Engineering",4
+9780134692166,"Dam Engineering","Raghunath",2016,"Civil Engineering",5
+9780134487919,"Water Supply Engineering","Santosh Garg",2018,"Civil Engineering",4
+9780134692227,"Wastewater Engineering","Metcalf Eddy",2017,"Civil Engineering",6
+9780134488025,"Solid Waste Management","George Tchobanoglous",2019,"Civil Engineering",5
+9780134692388,"Air Pollution Control","Howard Peavy",2016,"Environmental Engineering",4
+9780134488131,"Environmental Impact Assessment","Larry Canter",2018,"Environmental Engineering",5
+9780134692449,"Industrial Waste Treatment","Nelson Nemerow",2017,"Environmental Engineering",4
+9780134488247,"Hazardous Waste Management","Michael LaGrega",2019,"Environmental Engineering",5
+9780134692500,"Hydrology","Raghunath",2016,"Civil Engineering",6
+9780134488353,"Irrigation Engineering","Garg",2018,"Civil Engineering",5
+9780134692661,"Groundwater Hydrology","David Todd",2017,"Civil Engineering",4
+9780134488469,"River Engineering","Martin Thorne",2019,"Civil Engineering",3
+9780134692722,"Coastal Hydraulics","Miguel Losada",2016,"Civil Engineering",4
+9780134488575,"Open Channel Hydraulics","Ven Te Chow",2018,"Civil Engineering",5
+9780134692883,"Computational Fluid Dynamics","John Anderson",2017,"Mechanical Engineering",5
+9780134488681,"Finite Element Analysis","Daryl Logan",2019,"Mechanical Engineering",6
+9780134692944,"CAD CAM CIM","Groover",2016,"Mechanical Engineering",4
+9780134488797,"Robotics and Automation","Richard Groover",2018,"Mechanical Engineering",5
+9780134693005,"Mechatronics","William Bolton",2017,"Mechanical Engineering",4
+9780134488803,"Industrial Engineering","Niebel",2019,"Industrial Engineering",5
+9780134693166,"Operations Research","Hamdy Taha",2016,"Industrial Engineering",6
+9780134488919,"Quality Control","Douglas Montgomery",2018,"Industrial Engineering",5
+9780134693227,"Supply Chain Management","Sunil Chopra",2017,"Industrial Engineering",4
+9780134489025,"Lean Manufacturing","James Womack",2019,"Industrial Engineering",3
+9780134693388,"Six Sigma","Mikel Harry",2016,"Industrial Engineering",4
+9780134489131,"Facility Planning","James Tompkins",2018,"Industrial Engineering",5
+9780134693449,"Work Study","Ralph Barnes",2017,"Industrial Engineering",4
+9780134489247,"Ergonomics","Mark Sanders",2019,"Industrial Engineering",3
+9780134693500,"Safety Engineering","Willie Hammer",2016,"Industrial Engineering",5
+9780134489353,"Reliability Engineering","Charles Ebeling",2018,"Industrial Engineering",4
+9780134693661,"System Engineering","Andrew Sage",2017,"Systems Engineering",5
+9780134489469,"Engineering Management","Babcock",2019,"General Engineering",4
+9780134693722,"Technical Writing","Mike Markel",2016,"General Engineering",5
+9780134489575,"Engineering Graphics","Frederick Giesecke",2018,"General Engineering",6
+9780134693883,"Innovation and Entrepreneurship","Peter Drucker",2017,"General Engineering",3
+9780134489681,"Sustainable Engineering","David Allen",2019,"Environmental Engineering",5
+9780134693944,"Green Building Design","Jerry Yudelson",2016,"Civil Engineering",4
+9780134489797,"Smart Grid Technology","Stuart Borlase",2018,"Electrical Engineering",5
+9780134694005,"IoT Engineering","Raj Kamal",2017,"Computer Science",4
+9780134489803,"Cloud Computing","Thomas Erl",2019,"Computer Science",5
+9780134694166,"Big Data Analytics","Michael Berthold",2016,"Computer Science",6
+9780134489919,"Machine Learning","Tom Mitchell",2018,"Computer Science",5
+9780134694227,"Deep Learning","Ian Goodfellow",2017,"Computer Science",6
+9780134490025,"Computer Vision","Richard Szeliski",2019,"Computer Science",4
+9780134694388,"Natural Language Processing","Daniel Jurafsky",2016,"Computer Science",5
+9780134490131,"Cybersecurity","William Stallings",2018,"Computer Science",5
+9780134694449,"Blockchain Technology","Arvind Narayanan",2017,"Computer Science",4
+9780134490247,"Quantum Computing","Michael Nielsen",2019,"Computer Science",3
+9780134694500,"Augmented Reality","Dieter Schmalstieg",2016,"Computer Science",4
+9780134490353,"Game Development","Steve Rabin",2018,"Computer Science",5
+9780134694661,"Mobile App Development","Neil Smyth",2017,"Computer Science",4
+9780134490469,"Web Development","Jon Duckett",2019,"Computer Science",6
+9780134694722,"DevOps Engineering","Gene Kim",2016,"Computer Science",5
+9780134490575,"Microservices Architecture","Sam Newman",2018,"Computer Science",4
+9780134694883,"Agile Software Development","Robert Martin",2017,"Computer Science",5
+9780134490681,"Software Testing","Ron Patton",2019,"Computer Science",4
+9780134694944,"Software Architecture","Len Bass",2016,"Computer Science",5
+9780134490797,"Compiler Design","Alfred Aho",2018,"Computer Science",6
